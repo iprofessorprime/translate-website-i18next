@@ -1,26 +1,27 @@
 {
-    "common": {
-      "welcome": "Bienvenue",
-      "logout": "Déconnexion",
-      "login": "Connexion",
-      "signup": "S'inscrire",
-      "yes": "Oui",
-      "no": "Non",
-      "cancel": "Annuler",
-      "submit": "Soumettre",
-      "loading": "Chargement...",
-      "language": "Langue"
-    },
-    "homepage": {
-      "title": "Bienvenue sur Notre Application",
-      "description": "C'est la meilleure plateforme pour atteindre vos objectifs.",
-      "learn_more": "En savoir plus"
-    },
-    "errors": {
-      "404_title": "Page Non Trouvée",
-      "404_message": "Désolé, la page que vous recherchez n'existe pas.",
-      "500_title": "Erreur Interne du Serveur",
-      "500_message": "Oups ! Quelque chose s'est mal passé de notre côté."
-    }
+  "common": {
+    "welcome": "Bienvenue",
+    "logout": "Déconnexion",
+    "login": "Connexion",
+    "signup": "S'inscrire",
+    "yes": "Oui",
+    "no": "Non",
+    "cancel": "Annuler",
+    "submit": "Soumettre",
+    "loading": "Chargement...",
+    "language": "Langue",
+    "coming_soon": "Bientôt disponible",
+    "profile": "Profil"
+  },
+  "homepage": {
+    "title": "Bienvenue sur Notre Application",
+    "description": "C'est la meilleure plateforme pour atteindre vos objectifs.",
+    "learn_more": "En savoir plus"
+  },
+  "errors": {
+    "404_title": "Page Non Trouvée",
+    "404_message": "Désolé, la page que vous recherchez n'existe pas.",
+    "500_title": "Erreur Interne du Serveur",
+    "500_message": "Oups ! Quelque chose s'est mal passé de notre côté."
   }
-  
+}

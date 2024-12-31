@@ -64,7 +64,7 @@ const Header = ({ img }) => {
       </LogoContainer>
       <LinksContainer>
         <a href="/home">{t("common.welcome")}</a>
-        <a href="/profile">{t("common.logout")}</a>
+        <a href="/profile">{t("common.profile")}</a>
       </LinksContainer>
       <LanguageSelectorContainer>
         <div>
